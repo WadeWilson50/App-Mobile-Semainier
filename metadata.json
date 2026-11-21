@@ -1,0 +1,8 @@
+{
+  "name": "Semainier",
+  "description": "Planificateur de menus hebdomadaires familiaux et liste de courses intelligente (Cookeo, Thermomix TM6, Airfryer, Poêle)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semainier</string>
+    <string name="app_full_title">Mon Semainier Gourmand</string>
+    <string name="app_subtitle">Cookeo • Thermomix TM6 • Airfryer • Poêle | 3 pers. sem. / 4 pers. WE</string>
+
+    <string name="nav_planner">Planning</string>
+    <string name="nav_recipes">Recettes</string>
+    <string name="nav_groceries">Courses</string>
+
+    <string name="sync_chip_label">Chromebook ↔ Téléphone</string>
+
+    <string name="planner_generate_week">Générer ma semaine</string>
+    <string name="planner_favor_favorites">Privilégier mes favoris</string>
+    <string name="planner_reset_default">Réinitialiser semaine type</string>
+    <string name="planner_slot_free">Libre</string>
+    <string name="planner_no_meal_planned">Pas de repas prévu</string>
+    <string name="planner_activate_slot">+ Activer ce repas</string>
+    <string name="planner_choose_dish">+ Choisir un plat</string>
+    <string name="planner_mark_no_meal">Marquer sans repas</string>
+
+    <string name="recipes_title">Mes Recettes &amp; Robots</string>
+    <string name="recipes_subtitle">Recettes familiales rapides optimisées pour Cookeo, Thermomix TM6, Airfryer et Poêle.</string>
+    <string name="recipes_add_button">Ajouter ma recette</string>
+    <string name="recipes_search_hint">Rechercher un plat, un ingrédient…</string>
+
+    <string name="groceries_title">Liste de Courses de la Semaine</string>
+    <string name="groceries_subtitle">Calculée uniquement sur vos repas actifs (3 pers. en semaine, 4 pers. le week-end).</string>
+    <string name="groceries_uncheck_all">Tout décocher</string>
+    <string name="groceries_copy">Copier</string>
+    <string name="groceries_share">Partager</string>
+    <string name="groceries_empty_title">Votre liste de courses est vide</string>
+    <string name="groceries_empty_subtitle">Ajoutez des repas dans votre planning ou saisissez un article ci-dessus.</string>
+
+    <string name="cd_app_logo">Logo Mon Semainier Gourmand</string>
+    <string name="cd_favorite_toggle">Ajouter ou retirer des favoris</string>
+    <string name="cd_close">Fermer</string>
+    <string name="cd_swap_slot">Échanger ou déplacer ce repas</string>
+    <string name="cd_regenerate_slot">Changer aléatoirement</string>
+    <string name="cd_clear_slot">Vider ce plat</string>
+    <string name="cd_delete_recipe">Supprimer cette recette</string>
+    <string name="cd_delete_item">Supprimer cet article</string>
+</resources>
